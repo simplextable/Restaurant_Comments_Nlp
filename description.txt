@@ -1,0 +1,1 @@
+açıklama: In this example we repeated prof. sadi's restourant example. used restourants as data.
